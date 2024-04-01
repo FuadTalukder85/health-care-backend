@@ -1,0 +1,25 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "F:\\frontend\\ph-healthcare\\HealthCare-Server\\logs\\winston\\successes\\.890dc1f600c89f636f517ada0e604260ff193854-audit.json",
+    "files": [
+        {
+            "date": 1711885772259,
+            "name": "F:\\frontend\\ph-healthcare\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-31-03-17-success.log",
+            "hash": "96e70ab5561b7dcf16b45189d853f557a1980509fe57a72b59874cde4c197a2d"
+        },
+        {
+            "date": 1711904821038,
+            "name": "F:\\frontend\\ph-healthcare\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-31-03-23-success.log",
+            "hash": "206758cd72d87ba93e4ea08c49077e43e945793634b90fe651577aacfc0addb3"
+        },
+        {
+            "date": 1711971508349,
+            "name": "F:\\frontend\\ph-healthcare\\HealthCare-Server\\logs\\winston\\successes\\phu-2024-01-04-17-success.log",
+            "hash": "4d3799309948a983a0e72c30ab411dd0602440ab813518fff41ef421b3ed0ca4"
+        }
+    ],
+    "hashType": "sha256"
+}
